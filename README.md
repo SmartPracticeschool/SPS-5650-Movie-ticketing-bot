@@ -12,4 +12,4 @@ For to see the preview of the Chatbot please copy the below url link and paste i
 https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=b16da354-a9a0-402b-8147-f815461b80d3&serviceInstanceID=581e5911-95ab-427e-a23c-6c9453c34798
 
 for to view the demonstration of Movie Ticket Bot on YouTube please click on the following link:
-https://www.youtube.com/watch?v=VQIkknsgBLc&feature=youtu.be
+https://www.youtube.com/watch?v=FU-xAmmfH1o&feature=youtu.be
